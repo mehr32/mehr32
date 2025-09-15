@@ -4,8 +4,7 @@
 <img align="right" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300">
 
 - 🎓 A self-taught person
-- 💡 Passionate about **Python + Electronics + Artificial Intelligence + Science** projects
-- 🤖 Currently learning **go and AI**
+- 💡 Passionate about **Python + Electronics + Science** projects
 
 ---
 
@@ -13,11 +12,8 @@
 
 ### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ### 🔧 Tools & Platforms
-![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
-![KDE](https://img.shields.io/badge/KDE-1D99F3?style=for-the-badge&logo=kde&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ---
